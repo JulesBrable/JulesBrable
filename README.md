@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Jules</h1>
 <h3 align="center">2nd Year Student in Data Science @ ENSAE (Institut Polytechnique de Paris)</h3>
 
-1️⃣ I’m currently working on the [causal identification of newborn's health determinants](https://github.com/JulesBrable/statapp) at CREST (UMR 9194 CNRS)
+1️⃣ I’m currently working on the [causal identification of newborn's health determinants](https://github.com/JulesBrable/statapp) at [CREST (UMR 9194 CNRS)](https://crest.science/)
 
 2️⃣ I’m currently enrolled in the following Coursera courses : [IBM AI Engineering Professional Certificate](https://www.coursera.org/professional-certificates/ai-engineer) & [Genomic Data Science Specialization](https://www.coursera.org/specializations/genomic-data-science)
 
