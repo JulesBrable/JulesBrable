@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Jules</h1>
-<h3 align="center">2nd Year Student in Data Science @ ENSAE (Institut Polytechnique de Paris)</h3>
+<h3 align="center">3rd Year Student in Data Science @ ENSAE (Institut Polytechnique de Paris)</h3>
 
 I’m currently working on phenomic selection based on CNN models at [INRAE MIA Paris-Saclay]([https://crest.science/](https://mia-ps.inrae.fr/)).
 
