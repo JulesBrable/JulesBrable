@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Jules</h1>
-<h3 align="center">3rd Year Student in Data Science @ ENSAE (Institut Polytechnique de Paris)</h3>
+<h3 align="center">Final Year Student in Data Science @ ENSAE (Institut Polytechnique de Paris)</h3>
 
 I’m a Data Scientist at the Datalab of [Société Générale Assurances](https://www.assurances.societegenerale.com/fr/particulier/), where I am currently working on leveraging LLM and non-supervised algorithms for Topic Modelling.
 
