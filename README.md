@@ -1,7 +1,5 @@
 <h1 align="center">Hi 👋, I'm Jules</h1>
-<h3 align="center">Final Year Student in Data Science @ ENSAE (Institut Polytechnique de Paris)</h3>
-
-I’m Data Scientist at the Datalab of [Société Générale Assurances](https://www.assurances.societegenerale.com/fr/particulier/), where I am currently working on leveraging LLM and non-supervised algorithms for Topic Modelling.
+<h3 align="center">Data Journalist @ Le Figaro</h3>
 
 <p align="center"> 
   <a href="https://www.r-project.org" target="_blank" rel="noreferrer"> <img src="https://cdn.simpleicons.org/r/#276DC3.svg" width="40" height="40"/> </a> 
@@ -17,5 +15,4 @@ I’m Data Scientist at the Datalab of [Société Générale Assurances](https:/
 ### 📫 Connect with me
 <p align="center">
   <a target="_blank"href="https://www.linkedin.com/in/jbrable"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="mailto:jules.brable@ensae.fr?subject=Hello%20Jules,%20from%20Github"><img src="https://img.shields.io/badge/MAIL-%23D14836.svg?&style=for-the-badge&logo=Mail.Ru&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
